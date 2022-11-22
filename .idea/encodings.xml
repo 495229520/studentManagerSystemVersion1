@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/manage.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/file/MainText.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/item/Course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/CourseManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/ManageLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/StudentLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/view/TeacherLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tea.txt" charset="UTF-8" />
+  </component>
+</project>
